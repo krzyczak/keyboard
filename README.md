@@ -4,6 +4,7 @@
 2. Must be RGB
 3. All the designs should be based on https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key/
 4. Must use the [MX ULP Tactile](https://www.cherrymx.de/en/cherry-mx/mx-ultra-low-profile/mx-ulp-tactile.html#techSpecs)
+<img width="927" alt="Screen Shot 2022-09-16 at 14 00 46" src="https://user-images.githubusercontent.com/38408/190645251-e8698bec-4f3e-4af1-8db3-9826cff66494.png">
 
 The goal is to have a keyboard based on the cairn mesa designs (equally flat, with the same keys and firmware and materials), supporting Cherry [MX ULP Tactile](https://www.cherrymx.de/en/cherry-mx/mx-ultra-low-profile/mx-ulp-tactile.html#techSpecs) switches but to have the same layout as the 2015 Macbook Pro 15" A1398 model.
 This layout is almost like 75%, with apple own modification.
