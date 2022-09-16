@@ -15,7 +15,7 @@ Since there is no easy way to find mechanical switches for half the key (like ap
 The following picture shows one of the possibilities for this:
 <img width="838" alt="Screen Shot 2022-09-15 at 23 43 09" src="https://user-images.githubusercontent.com/38408/190640593-065fa96c-b3c9-48fe-922f-c51f3bc8adb1.png">
 
-The example layout data is in the example-layout.txt which can be pasted in the "Raw Data" section on the http://www.keyboard-layout-editor.com/ website to show it.
+The example layout data is in the [example-layout.txt](https://github.com/krzyczak/keyboard/blob/master/example-layout.txt) which can be pasted in the "Raw Data" section on the http://www.keyboard-layout-editor.com/ website to show it.
 
 Obviously, the layout shown there does not take into account the size of the [MX ULP Tactile](https://www.cherrymx.de/en/cherry-mx/mx-ultra-low-profile/mx-ulp-tactile.html#techSpecs) switches, so it should be used as a guide only.
 
