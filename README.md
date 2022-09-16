@@ -1,4 +1,4 @@
-# Mechanical Keyboard Specyfication
+# Mechanical Keyboard Specification
 
 1. Must support QMK. everything should be the same as https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key/ regarding firmware
 2. Must be RGB
