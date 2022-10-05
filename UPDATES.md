@@ -48,10 +48,12 @@ Can we make it such that the modified keyboard is more alliged with the original
 Overally it should have a look and feel the same as the original design shown here: https://www.youtube.com/watch?v=mPw4IiiNRL8
 
 
-## Question
-When I order the keyboard case, there are all these screws, inserts, adhesive, isolation etc, which we did not copy over from the original keyboard repository.
+## Questions
+1. When I order the keyboard case, there are all these screws, inserts, adhesive, isolation etc, which we did not copy over from the original keyboard repository.
 So when ordering from PCBWAY there is this "inserts" section there (see image below).
 Should I add everything from this link https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key/-/tree/main/Mechanics/CAD/Solidwork%20files in that section as one zip file or how should I do it?
+
+2. Also, what do I pu in the threads section?
 
 ![image](https://user-images.githubusercontent.com/38408/194072447-8eda4ace-3e0f-4520-8e90-aa01b08eeb6c.png)
 
