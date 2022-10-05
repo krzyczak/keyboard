@@ -53,6 +53,9 @@ When I order the keyboard case, there are all these screws, inserts, adhesive, i
 So when ordering from PCBWAY there is this "inserts" section there (see image below).
 Should I add everything from this link https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key/-/tree/main/Mechanics/CAD/Solidwork%20files in that section as one zip file or how should I do it?
 
+![image](https://user-images.githubusercontent.com/38408/194072447-8eda4ace-3e0f-4520-8e90-aa01b08eeb6c.png)
+
+
 
 
 
